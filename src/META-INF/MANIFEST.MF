@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: Landon
+Main-Class: pw.landon.ceroc.Main
